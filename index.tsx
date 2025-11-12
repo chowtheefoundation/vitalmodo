@@ -14,3 +14,8 @@ root.render(
     <App />
   </React.StrictMode>
 );
+<style>
+  html, body, #root {
+    background-color: transparent !important;
+  }
+</style>
